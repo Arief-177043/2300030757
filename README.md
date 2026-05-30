@@ -16,6 +16,10 @@ A comprehensive notification management application featuring server-side API wi
 
 <img width="1611" height="976" alt="Notifications" src="https://github.com/user-attachments/assets/1c257790-14fa-4c50-887c-4ee8b4fc144f" />
 
+### Priority Inbox
+<img width="1668" height="943" alt="image" src="https://github.com/user-attachments/assets/f4b8efc6-88d3-4c80-b9a4-634fd34e90fb" />
+
+
 ## Project Structure
 
 ```text
