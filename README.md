@@ -1,9 +1,24 @@
 
 A comprehensive notification management application featuring server-side API with Node.js and Express, database persistence through PostgreSQL with Prisma ORM, and a modern React frontend powered by Vite and Material-UI components.
 
+## Screenshots
+
+### Login Page
+<img width="1918" height="982" alt="image" src="https://github.com/user-attachments/assets/fe893e05-8810-48b1-ae58-49f21de7d4e9" />
+
+
+### Dashboard
+<img width="1742" height="903" alt="image" src="https://github.com/user-attachments/assets/60872c9b-a284-40f7-adda-1fdd00542880" />
+
+
+### Notifications
+<img width="1611" height="976" alt="image" src="https://github.com/user-attachments/assets/1c257790-14fa-4c50-887c-4ee8b4fc144f" />
+
+
 
 
 ```
+## Project Structure
 affordmed/
 ├── backend/
 │   ├── src/
