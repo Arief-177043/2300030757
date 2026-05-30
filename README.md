@@ -60,7 +60,7 @@ CREATE DATABASE affordmed;
 
 Navigate to the backend directory and install dependencies:
 ```bash
-cd backend
+cd notification_app_be
 cp .env.example .env
 ```
 
