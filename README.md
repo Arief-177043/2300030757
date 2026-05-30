@@ -85,7 +85,7 @@ The backend service will launch at http://localhost:5000
 
 In a separate terminal, navigate to the frontend directory:
 ```bash
-cd frontend
+cd notification_app_fe
 npm install
 npm run dev
 ```
