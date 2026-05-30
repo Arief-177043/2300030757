@@ -17,29 +17,33 @@ A comprehensive notification management application featuring server-side API wi
 
 
 
-```
 ## Project Structure
-affordmed/
-├── backend/
+
+```text
+2300030757/
+├── .gitignore
+├── README.md
+├── notification_system_design.md
+├── notification_app_be/
 │   ├── src/
 │   │   ├── controllers/
 │   │   ├── middleware/
 │   │   ├── routes/
 │   │   ├── services/
 │   │   └── utils/
-│   ├── .env
-│   └── package.json
-├── prisma/
-│   └── schema.prisma
-├── frontend/
+│   ├── prisma/
+│   ├── package.json
+│   └── .env.example
+├── notification_app_fe/
 │   ├── src/
 │   │   ├── context/
 │   │   ├── pages/
 │   │   ├── components/
 │   │   └── services/
-│   └── package.json
-└── docs/
-    └── notification_system_design.md
+│   ├── package.json
+│   ├── vite.config.js
+│   └── index.html
+└── prisma/
 ```
 
 
